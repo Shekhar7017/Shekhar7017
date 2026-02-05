@@ -25,7 +25,7 @@
 
 ## 📂 Featured Projects
 - 📊 Sales Data Analysis (Python, Pandas) (https://github.com/Shekhar7017/Sales-Data-Analysis) ✅
-- 🎓 Student Performance Analysis (Upcoming)
+- 🎓 Student Performance Analysis (Python, Pandas) (https://github.com/Shekhar7017/Student_Data_Analysis) ✅
 - 🔍 Customer Churn Analysis (Planned)
 
 ---
