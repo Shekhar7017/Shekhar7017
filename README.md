@@ -26,6 +26,7 @@
 ## 📂 Featured Projects
 - 📊 Sales Data Analysis (Python, Pandas) (https://github.com/Shekhar7017/Sales-Data-Analysis) ✅
 - 🎓 Student Performance Analysis (Python, Pandas) (https://github.com/Shekhar7017/Student_Data_Analysis) ✅
+- 🎓 Student Marks Predictor Project is completed (Python, Pandas, Scikit Learn) ✅
 - 🔍 Customer Churn Analysis (Planned)
 - 🎓 CLARION-SUM is a novel hierarchical, fact-aware, self-refining framework designed for **multi-document clinical news summarization**.(Python, Pandas, NLP, DL) (https://github.com/Shekhar7017?CLARION-SUM-FINAL-VIRSION) ✅
 
