@@ -18,6 +18,7 @@
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Data Analysis
+- Scikit learn
 - Jupyter Notebook
 - Git & GitHub
 
