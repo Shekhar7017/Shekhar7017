@@ -30,6 +30,7 @@
 - 🎓 Student Marks Predictor Project is completed (Python, Pandas, Scikit Learn) ✅
 - 🔍 Customer Churn Predictor (running)
 - 🎓 CLARION-SUM is a novel hierarchical, fact-aware, self-refining framework designed for **multi-document clinical news summarization**.(Python, Pandas, NLP, DL) (https://github.com/Shekhar7017?CLARION-SUM-FINAL-VIRSION) ✅
+- 🎓 Classification Pipeline For Imbalanced Data (Python, ScikitLearn) ✅
 
 ---
 
